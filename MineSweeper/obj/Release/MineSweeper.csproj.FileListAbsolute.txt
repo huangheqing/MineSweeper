@@ -1,0 +1,8 @@
+E:\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe.config
+E:\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe
+E:\MineSweeper\MineSweeper\bin\Release\MineSweeper.pdb
+E:\MineSweeper\MineSweeper\obj\Release\Game.MineSweeperForm.resources
+E:\MineSweeper\MineSweeper\obj\Release\MineSweeper.Properties.Resources.resources
+E:\MineSweeper\MineSweeper\obj\Release\MineSweeper.csproj.GenerateResource.Cache
+E:\MineSweeper\MineSweeper\obj\Release\MineSweeper.exe
+E:\MineSweeper\MineSweeper\obj\Release\MineSweeper.pdb

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{837F66AE-A2A6-4BE2-882F-FD60716EFC40}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MineSweeper/MineSweeper.cs">
+    <Files>
+      <File FileName="MineSweeper/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="MineSweeper/Program.cs" Line="1" Column="1" />
+      <File FileName="MineSweeper/MineSweeper.cs" Line="83" Column="113" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MineSweeper PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

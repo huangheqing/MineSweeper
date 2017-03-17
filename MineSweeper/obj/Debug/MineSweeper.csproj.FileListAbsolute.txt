@@ -1,0 +1,17 @@
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.Cache
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\qa\Desktop\FD_CODE\MineSweeper\MineSweeper\obj\Debug\Game.GameUI.resources
+E:\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+E:\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+E:\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.Cache
+E:\MineSweeper\MineSweeper\obj\Debug\Game.MineSweeperForm.resources

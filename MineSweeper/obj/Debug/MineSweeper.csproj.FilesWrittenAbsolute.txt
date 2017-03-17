@@ -1,0 +1,10 @@
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/obj/Debug/Game.MineSweeperForm.resources
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/obj/Debug/MineSweeper.Properties.Resources.resources
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/bin/Debug/MineSweeper.exe.config
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/bin/Debug/MineSweeper.exe.mdb
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/bin/Debug/MineSweeper.pdb
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/bin/Debug/MineSweeper.exe
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/obj/Debug/MineSweeper.exe
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/obj/Debug/MineSweeper.exe.mdb
+/Users/heqinghuang/Downloads/MineSweeper/MineSweeper/obj/Debug/MineSweeper.pdb
